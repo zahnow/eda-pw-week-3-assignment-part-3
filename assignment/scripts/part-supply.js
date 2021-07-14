@@ -32,7 +32,10 @@ console.log('---  Stretch Goals  ---');
 // 7. Rewrite the `for` loop from #6 as a `for of` loop. 
 console.log('7. Showing supplyChanges with "for of" loop');
 
-// 8. Rewrite the `for` loop from #6 as a `while` loop.
+// 8. Business is booming! We're doubling our orders for parts every week.
+// Write a `while` loop that adds twice the number of parts as was in the 
+// previous order. Keep adding orders until we've passed 100 parts in an order
+// -- then we'll need to consider getting a bigger loading dock!
 console.log('8. Showing supplyChanges with "while" loop');
 
 
